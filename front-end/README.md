@@ -1,5 +1,5 @@
 ## Task 1
-Create a simple calculator that given a string of operators (), +, -, *, / and numbers separated by spaces returns the value of that expression
+Create a simple calculator that given a string of operators (), +, -, *, / and numbers separated by spaces returns the value of that expression.
 
 Example:
 ```
@@ -11,13 +11,13 @@ Remember about the order of operations! Multiplications and divisions have a hig
 
 Create a set of unit tests to check the calculator implemented in task 1.
 
-Note: you can use any library for tests creation
+Note: you can use any library for tests creation.
 
 ## Task 3
 
 Make a visualization for tasks 1 and 2:
-1) input field - entering a value for the “calculator”.
-2) output field - the result of unit tests
-3) button - run tests
+1) input field - entering a value for the “calculator”;
+2) output field - the result of unit tests;
+3) button - run tests.
 
-Note: styles are up to you
+Note: styles are up to you.
