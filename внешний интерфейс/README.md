@@ -17,7 +17,8 @@ Note: you can use any library for tests creation.
 
 Make a visualization for tasks 1 and 2:
 1) input field - entering a value for the “calculator”;
-2) output field - the result of unit tests;
-3) button - run tests.
+2) output field - results the value of that expression;
+3) output field - the result of unit tests;
+4) button - run tests.
 
 Note: styles are up to you.
