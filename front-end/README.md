@@ -14,6 +14,8 @@ Create a set of unit tests to check the calculator implemented in task 1.
 Note: you can use any library for tests creation
 
 ## Task 3
+
+Make a visualization for tasks 1 and 2:
 1) input field - entering a value for the “calculator”.
 2) output field - the result of unit tests
 3) button - run tests
