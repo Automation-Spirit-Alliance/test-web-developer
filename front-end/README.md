@@ -22,4 +22,5 @@ and task 2:
   1) output field - the result of unit tests;
   2) button - run tests.
 
-Note: styles are up to you.
+
+ Note: styles are up to you.
