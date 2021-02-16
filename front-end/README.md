@@ -1,5 +1,5 @@
 ## Task 1
-Create a simple calculator that proceses the given string of operators (), +, -, *, / and numbers separated by spaces and returns the value of that expression.
+Create a simple calculator that proceses the given string of operators "(", ")", "+", "-", "*", "/" and numbers separated by spaces and returns the value of that expression.
 
 Example:
 ```
